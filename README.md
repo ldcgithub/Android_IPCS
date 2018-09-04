@@ -1,2 +1,2 @@
 # Android_IPCS
-Android开发艺术探索-第二章IPC方式
+Android开发艺术探索-第二章IPC方式包括BinderPool连接池，Messenger信使，ContentProvider,Socket通信
